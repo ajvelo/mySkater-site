@@ -51,6 +51,10 @@ button.coolStuffBtn {
     padding: 10px;
 }
 
+.fab {
+    margin: 10px;
+}
+
 .fa-facebook-square {
     color: #3b5998;
 }
@@ -60,5 +64,9 @@ button.coolStuffBtn {
 }
 
 .fa-instagram {
-    color: white;
+    color: #ffffff;
+}
+
+.socialWrapper {
+    margin: auto;
 }
