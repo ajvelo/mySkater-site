@@ -24,3 +24,12 @@ button.coolStuffBtn {
     display: block;
     margin: auto;
 }
+
+.modal-title {
+    margin: auto;
+    margin-right: -3rem;
+}
+
+.modalFormWrapper {
+    padding: 2rem;
+}
